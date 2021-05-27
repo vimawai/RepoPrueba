@@ -9,6 +9,6 @@
 
 
 WRITE 'HOLA Mundo nuevo '
-WRITE 'CHAU'
+WRITE 'CHAU Mundo viejo'
 
 END
